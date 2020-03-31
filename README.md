@@ -1,3 +1,3 @@
 # vg_account_confirm
 
-3bf8462588611c98db9a0eb5e02e4bc1f3facbcca580b911cd6014be5ce6f1c9
+5774e93d2374ef8281fff7baca82fd4b1059d1d09ec45b73a5ce81b254dbf574
